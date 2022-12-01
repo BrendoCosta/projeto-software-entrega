@@ -1,6 +1,3 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/MatMr7/lazy_fries
 [submodule "implementacao/backend"]
 	path = implementacao/backend
 	url = https://github.com/MatMr7/lazy_fries
