@@ -40,5 +40,8 @@ export default class API {
         });
         
     }
-
+    
+    static listarCaminhoes() {
+        return axios.get(`${API.baseUrl}/caminhoes`, { withCredentials: false });
+    }
 }
